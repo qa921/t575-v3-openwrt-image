@@ -1,0 +1,8 @@
+name: OpenWrt Image
+description: Build signed OpenWrt images for routers
+runs:
+  using: node20
+  main: dist/index.js
+permissions:
+  contents: read
+  packages: write

@@ -1,2 +1,2 @@
-# t575-v3-openwrt-image
-T575-V3 seed: OpenWrt image Action candidate
+# OpenWrt Image
+Builds router images and package feeds. Use immutable SHA pins. Depends on `tar`; npm package facts should be verified. No advisory conclusion provided.
